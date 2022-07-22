@@ -2,10 +2,13 @@ The program for “Probability-Detector-of-Covid19” is written using python an
 # Machine Learning model parameters:-
 
 ## Features:
-#### Average Fever-Continous
-#### Body Pain-0/1 Binary
-#### Age-Discrete
+#### Average Fever
+#### Continous Body Pain
+#### 0/1 Binary
+#### Age
+#### Discrete
 #### Runny Nose
-#### Breathing Problem- Categorical: 0/1/-1
+#### Breathing Problem
+#### Categorical: 0/1/-1
 ## Labels:
 Probability of COVID-19 Infection
